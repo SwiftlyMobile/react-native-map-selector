@@ -4,23 +4,15 @@ Selection tools for react-native-maps
 
 ## Installation
 
-
 ```sh
 npm install react-native-map-selector
 ```
 
-
 ## Usage
 
-
 ```js
-import { multiply } from 'react-native-map-selector';
-
-// ...
-
-const result = await multiply(3, 7);
+// TODO: Add example usage
 ```
-
 
 ## Contributing
 
